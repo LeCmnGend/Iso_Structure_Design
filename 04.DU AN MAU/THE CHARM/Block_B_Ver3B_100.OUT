@@ -1,0 +1,1747 @@
+
+
+ ETABS Ultimate 64-bit 19.1.0 Build 2420 (Analysis Build 9853/64)               
+ File: \\192.168.1.253\ts1\#Th...ung Hieu\1.USER\THE CHARM\Block_B_Ver3B_100.OUT
+                                                                     
+                                                                       
+
+ 1, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          395.466176  395.466176     .000000     .000000     .000000   12972.224
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     48.527240   48.527240   48.389459
+     Y     39.768133   39.768133   39.482997
+     Z    125.400000  125.400000  125.400000
+
+ 2, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3081.410    3081.410     .000000     .000000     .000000  1.0898E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     51.338997   51.338997   51.276259
+     Y     31.771351   31.771351   32.185816
+     Z    118.800000  118.800000  118.800000
+
+ 3, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            2264.207    2264.207     .000000     .000000     .000000  857681.674
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     50.715456   50.715456   51.136150
+     Y     32.674143   32.674143   32.171188
+     Z    115.500000  115.500000  115.500000
+
+ 4, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            2304.534    2304.534     .000000     .000000     .000000  899025.964
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     49.861255   49.861255   50.872131
+     Y     33.146213   33.146213   31.844709
+     Z    112.200000  112.200000  112.200000
+
+ 5, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            2646.679    2646.679     .000000     .000000     .000000  1.2087E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     46.665095   46.665095   47.613783
+     Y     34.771329   34.771329   34.175942
+     Z    108.900000  108.900000  108.900000
+
+ 6, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3007.375    3007.375     .000000     .000000     .000000  1.5843E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     42.488717   42.488717   44.945138
+     Y     36.264504   36.264504   34.453426
+     Z    105.600000  105.600000  105.600000
+
+ 7, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3114.763    3114.763     .000000     .000000     .000000  1.7471E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     41.574308   41.574308   44.447970
+     Y     36.685011   36.685011   34.936236
+     Z    102.300000  102.300000  102.300000
+
+ 8, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3138.896    3138.896     .000000     .000000     .000000  1.8203E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     41.243420   41.243420   43.133019
+     Y     36.720925   36.720925   35.992393
+     Z     99.000000   99.000000   99.000000
+
+ 9, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3596.561    3596.561     .000000     .000000     .000000  2.3075E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     36.459239   36.459239   40.536190
+     Y     36.430799   36.430799   35.349513
+     Z     95.700000   95.700000   95.700000
+
+ 10, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3724.080    3724.080     .000000     .000000     .000000  2.3883E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     36.129478   36.129478   37.694465
+     Y     35.993560   35.993560   35.552691
+     Z     92.400000   92.400000   92.400000
+
+ 11, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3860.892    3860.892     .000000     .000000     .000000  2.4893E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     35.344349   35.344349   37.321636
+     Y     35.436564   35.436564   35.288663
+     Z     89.100000   89.100000   89.100000
+
+ 12, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4034.126    4034.126     .000000     .000000     .000000  2.6629E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.271980   34.271980   36.091736
+     Y     34.630574   34.630574   34.574023
+     Z     85.800000   85.800000   85.800000
+
+ 13, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3924.038    3924.038     .000000     .000000     .000000  2.5910E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.824493   34.824493   35.500007
+     Y     35.032772   35.032772   34.164784
+     Z     82.500000   82.500000   82.500000
+
+ 14, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3924.038    3924.038     .000000     .000000     .000000  2.5910E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.824493   34.824493   35.498901
+     Y     35.032772   35.032772   34.146839
+     Z     79.200000   79.200000   79.200000
+
+ 15, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3940.996    3940.996     .000000     .000000     .000000  2.6129E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.684489   34.684489   35.429303
+     Y     34.972366   34.972366   34.149688
+     Z     75.900000   75.900000   75.900000
+
+ 16, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4159.608    4159.608     .000000     .000000     .000000  2.7903E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.800954   34.800954   35.166582
+     Y     35.229184   35.229184   34.461683
+     Z     72.600000   72.600000   72.600000
+
+ 17, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4015.257    4015.257     .000000     .000000     .000000  2.6659E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.858394   34.858394   35.488390
+     Y     34.989803   34.989803   34.158754
+     Z     69.300000   69.300000   69.300000
+
+ 18, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4015.257    4015.257     .000000     .000000     .000000  2.6659E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.858394   34.858394   35.500035
+     Y     34.989803   34.989803   34.164749
+     Z     66.000000   66.000000   66.000000
+
+ 19, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4015.257    4015.257     .000000     .000000     .000000  2.6659E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.858394   34.858394   35.428386
+     Y     34.989803   34.989803   34.131659
+     Z     62.700000   62.700000   62.700000
+
+ 20, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4015.257    4015.257     .000000     .000000     .000000  2.6659E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.858394   34.858394   35.435282
+     Y     34.989803   34.989803   34.145424
+     Z     59.400000   59.400000   59.400000
+
+ 21, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4015.257    4015.257     .000000     .000000     .000000  2.6659E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.858394   34.858394   35.451601
+     Y     34.989803   34.989803   34.130520
+     Z     56.100000   56.100000   56.100000
+
+ 22, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4012.280    4012.280     .000000     .000000     .000000  2.6650E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.860282   34.860282   35.429454
+     Y     34.986381   34.986381   34.136469
+     Z     52.800000   52.800000   52.800000
+
+ 23, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4009.303    4009.303     .000000     .000000     .000000  2.6641E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.862174   34.862174   35.441059
+     Y     34.982953   34.982953   34.142443
+     Z     49.500000   49.500000   49.500000
+
+ 24, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4011.662    4011.662     .000000     .000000     .000000  2.6649E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.954058   34.954058   35.079443
+     Y     34.995401   34.995401   34.628520
+     Z     46.200000   46.200000   46.200000
+
+ 25, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            3948.286    3948.286     .000000     .000000     .000000  2.6169E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.854455   34.854455   35.637973
+     Y     34.868451   34.868451   34.252920
+     Z     42.900000   42.900000   42.900000
+
+ 26, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4009.303    4009.303     .000000     .000000     .000000  2.6641E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.862174   34.862174   35.510577
+     Y     34.982953   34.982953   34.152787
+     Z     39.600000   39.600000   39.600000
+
+ 27, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4054.913    4054.913     .000000     .000000     .000000  2.7015E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.878535   34.878535   35.429469
+     Y     34.962239   34.962239   34.136449
+     Z     36.300000   36.300000   36.300000
+
+ 28, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4100.522    4100.522     .000000     .000000     .000000  2.7390E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.894531   34.894531   35.441085
+     Y     34.941985   34.941985   34.142409
+     Z     33.000000   33.000000   33.000000
+
+ 29, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4100.522    4100.522     .000000     .000000     .000000  2.7390E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.894531   34.894531   35.422662
+     Y     34.941985   34.941985   34.134567
+     Z     29.700000   29.700000   29.700000
+
+ 30, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4100.522    4100.522     .000000     .000000     .000000  2.7390E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.894531   34.894531   35.441085
+     Y     34.941985   34.941985   34.142429
+     Z     26.400000   26.400000   26.400000
+
+ 31, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4100.522    4100.522     .000000     .000000     .000000  2.7390E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.894531   34.894531   35.451631
+     Y     34.941985   34.941985   34.130481
+     Z     23.100000   23.100000   23.100000
+
+ 32, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4100.522    4100.522     .000000     .000000     .000000  2.7390E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     34.894531   34.894531   35.488419
+     Y     34.941985   34.941985   34.158714
+     Z     19.800000   19.800000   19.800000
+
+ 33, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4181.610    4181.610     .000000     .000000     .000000  2.9305E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     36.611537   36.611537   36.924684
+     Y     34.230443   34.230443   33.188450
+     Z     16.500000   16.500000   16.500000
+
+ 34, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            4694.095    4694.095     .000000     .000000     .000000  3.2691E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     36.188144   36.188144   36.714888
+     Y     34.338096   34.338096   33.325924
+     Z     13.200000   13.200000   13.200000
+
+ 35, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            5848.265    5848.265     .000000     .000000     .000000  3.9246E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     35.728357   35.728357   35.625449
+     Y     34.097198   34.097198   33.558628
+     Z      7.200000    7.200000    7.200000
+
+ 36, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           18700.000   18700.000     .000000     .000000     .000000  2.1291E+07
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     22.189572   22.189572   26.533225
+     Y     19.776532   19.776532   24.158713
+     Z       .000000     .000000     .000000
+
+ 37, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+            9905.075    9905.075     .000000     .000000     .000000  1.1380E+07
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     26.969123   26.969123   27.078486
+     Y     25.140280   25.140280   24.433567
+     Z     -4.650000   -4.650000   -4.650000
+
+ 38, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+          984.435533  984.435533     .000000     .000000     .000000  1.2778E+06
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X     31.248075   31.248075   30.577155
+     Y     29.867219   29.867219   30.906696
+     Z     -8.250000   -8.250000   -8.250000
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+  ~28374 TO  ~28358    +   +   A   A   A   +
+   26032 TO      77    +   +   -   -   -   +
+   26024 TO  ~28451    +   +   A   A   A   +
+   26033 TO     822    +   +   -   -   -   +
+   26131 TO  ~28353    +   +   A   A   A   +
+   26034 TO    1316    +   +   -   -   -   +
+   27237 TO  ~28327    +   +   A   A   A   +
+   26035 TO    2002    +   +   -   -   -   +
+   25969 TO  ~28326    +   +   A   A   A   +
+   26036 TO    2451    +   +   -   -   -   +
+   27239 TO  ~28320    +   +   A   A   A   +
+   26037 TO    3059    +   +   -   -   -   +
+   25971 TO  ~28319    +   +   A   A   A   +
+   26038 TO    3740    +   +   -   -   -   +
+   25959 TO  ~28316    +   +   A   A   A   +
+   26039 TO    4189    +   +   -   -   -   +
+   27242 TO  ~28308    +   +   A   A   A   +
+   26040 TO    4797    +   +   -   -   -   +
+   16772 TO  ~28306    +   +   A   A   A   +
+   26041 TO    5478    +   +   -   -   -   +
+   26725 TO  ~28304    +   +   A   A   A   +
+   26042 TO    5927    +   +   -   -   -   +
+   26234 TO  ~28302    +   +   A   A   A   +
+   26043 TO    6532    +   +   -   -   -   +
+   27231 TO  ~28284    +   +   A   A   A   +
+   26044 TO    7217    +   +   -   -   -   +
+   27395 TO  ~28268    +   +   A   A   A   +
+   26045 TO    7666    +   +   -   -   -   +
+   27396 TO    6277    +   +   A   A   A   +
+  ~44957 TO  ~44811    A   A   A   A   A   A
+  ~46646 TO  ~46294    +   +   A   A   A   +
+  ~46293               A   A   A   A   A   A
+  ~46292 TO  ~46231    +   +   A   A   A   +
+  ~46230 TO  ~46226    A   A   A   A   A   A
+  ~46225 TO  ~46135    +   +   A   A   A   +
+  ~46134               A   A   A   A   A   A
+  ~46133 TO  ~46132    +   +   A   A   A   +
+  ~46131               A   A   A   A   A   A
+  ~46130 TO  ~46055    +   +   A   A   A   +
+  ~46054 TO  ~46041    A   A   A   A   A   A
+  ~46040 TO  ~45942    +   +   A   A   A   +
+  ~45941               A   A   A   A   A   A
+  ~45940               +   +   A   A   A   +
+  ~45939 TO  ~45929    A   A   A   A   A   A
+  ~45928               +   +   A   A   A   +
+  ~45927 TO  ~45924    A   A   A   A   A   A
+  ~45923               +   +   A   A   A   +
+  ~45922 TO  ~45921    A   A   A   A   A   A
+  ~45920               +   +   A   A   A   +
+  ~45919 TO  ~45917    A   A   A   A   A   A
+  ~45916 TO  ~45852    +   +   A   A   A   +
+  ~45851 TO  ~45822    A   A   A   A   A   A
+  ~45821 TO  ~45691    +   +   A   A   A   +
+  ~45690 TO  ~45671    A   A   A   A   A   A
+  ~45670 TO  ~45499    +   +   A   A   A   +
+  ~45498 TO  ~45477    A   A   A   A   A   A
+  ~45476 TO  ~45456    +   +   A   A   A   +
+  ~45455 TO  ~45454    A   A   A   A   A   A
+  ~45453 TO  ~45452    +   +   A   A   A   +
+  ~45451 TO  ~45439    A   A   A   A   A   A
+  ~45438 TO  ~45203    +   +   A   A   A   +
+  ~45202 TO  ~45171    A   A   A   A   A   A
+  ~45170 TO  ~45025    +   +   A   A   A   +
+  ~45024 TO  ~45002    A   A   A   A   A   A
+  ~45001               +   +   +   +   +   +
+  ~45000 TO  ~44992    A   A   A   A   A   A
+  ~44991 TO  ~44961    +   +   A   A   A   +
+  ~44960 TO  ~44932    A   A   A   A   A   A
+  ~44931 TO  ~44865    +   +   A   A   A   +
+  ~44864 TO  ~44816    A   A   A   A   A   A
+  ~44815               +   +   +   +   +   +
+  ~44814 TO  ~44806    A   A   A   A   A   A
+  ~44805               +   +   +   +   +   +
+  ~44804 TO  ~44539    A   A   A   A   A   A
+  ~44538               +   +   +   +   +   +
+  ~44537 TO  ~44306    A   A   A   A   A   A
+  ~44305 TO  ~44250    +   +   A   A   A   +
+  ~28347 TO  ~28343    A   A   A   A   A   A
+  ~28271 TO  ~28270    +   +   A   A   A   +
+   26046 TO    8042    +   +   -   -   -   +
+   27796               +   +   A   A   A   +
+   27795 TO   27744    A   A   A   A   A   A
+   27397 TO  ~46287    +   +   A   A   A   +
+  ~44367 TO  ~44364    A   A   A   A   A   A
+  ~48596               +   +   A   A   A   +
+  ~46784               A   A   A   A   A   A
+  ~48710 TO  ~48709    +   +   A   A   A   +
+  ~48708 TO  ~48707    A   A   A   A   A   A
+  ~48706 TO  ~48487    +   +   A   A   A   +
+  ~48486 TO  ~48483    A   A   A   A   A   A
+  ~48482 TO  ~48402    +   +   A   A   A   +
+  ~48401 TO  ~48400    A   A   A   A   A   A
+  ~48399 TO  ~48320    +   +   A   A   A   +
+  ~48319 TO  ~48315    A   A   A   A   A   A
+  ~48314 TO  ~48278    +   +   A   A   A   +
+  ~48277 TO  ~48276    A   A   A   A   A   A
+  ~48275 TO  ~48147    +   +   A   A   A   +
+  ~48146 TO  ~48132    A   A   A   A   A   A
+  ~48131 TO  ~48068    +   +   A   A   A   +
+  ~48067 TO  ~48056    A   A   A   A   A   A
+  ~48055 TO  ~48048    +   +   A   A   A   +
+  ~48047               A   A   A   A   A   A
+  ~48046               +   +   A   A   A   +
+  ~48045 TO  ~48035    A   A   A   A   A   A
+  ~48034 TO  ~47940    +   +   A   A   A   +
+  ~47939 TO  ~47910    A   A   A   A   A   A
+  ~47909 TO  ~47832    +   +   A   A   A   +
+  ~47831 TO  ~47812    A   A   A   A   A   A
+  ~47811 TO  ~47734    +   +   A   A   A   +
+  ~47733 TO  ~47697    A   A   A   A   A   A
+  ~47696 TO  ~47568    +   +   A   A   A   +
+  ~47567 TO  ~47536    A   A   A   A   A   A
+  ~47535 TO  ~47395    +   +   A   A   A   +
+  ~47394 TO  ~47372    A   A   A   A   A   A
+  ~47371               +   +   +   +   +   +
+  ~47370 TO  ~47333    A   A   A   A   A   A
+  ~47332 TO  ~47303    +   +   A   A   A   +
+  ~47302 TO  ~47254    A   A   A   A   A   A
+  ~47253               +   +   +   +   +   +
+  ~47252 TO  ~47244    A   A   A   A   A   A
+  ~47243               +   +   +   +   +   +
+  ~47242 TO  ~47230    A   A   A   A   A   A
+  ~47229 TO  ~47174    +   +   A   A   A   +
+  ~47173 TO  ~47084    A   A   A   A   A   A
+  ~47083 TO  ~47042    +   +   A   A   A   +
+  ~47041 TO  ~46879    A   A   A   A   A   A
+  ~46878               +   +   +   +   +   +
+  ~46877 TO  ~46647    A   A   A   A   A   A
+  ~28350               +   +   A   A   A   +
+  ~28342 TO  ~28301    A   A   A   A   A   A
+   26047 TO    8279    +   +   -   -   -   +
+   27664 TO   27642    A   A   A   A   A   A
+   27634               +   +   A   A   A   +
+   27631 TO   28278    A   A   A   A   A   A
+   17232 TO  ~50131    +   +   A   A   A   +
+  ~50130 TO  ~50117    A   A   A   A   A   A
+  ~50116 TO  ~49951    +   +   A   A   A   +
+  ~49950 TO  ~49922    A   A   A   A   A   A
+  ~49921 TO  ~49363    +   +   A   A   A   +
+  ~49362 TO  ~49330    A   A   A   A   A   A
+  ~49329 TO  ~49184    +   +   A   A   A   +
+  ~49183 TO  ~49157    A   A   A   A   A   A
+  ~49156               +   +   +   +   +   +
+  ~49155 TO  ~49143    A   A   A   A   A   A
+  ~49142 TO  ~49045    +   +   A   A   A   +
+  ~49044 TO  ~49031    A   A   A   A   A   A
+  ~49030               +   +   +   +   +   +
+  ~49029 TO  ~49022    A   A   A   A   A   A
+  ~49021               +   +   +   +   +   +
+  ~49020 TO  ~49000    A   A   A   A   A   A
+  ~48999               +   +   +   +   +   +
+  ~48998 TO  ~48996    A   A   A   A   A   A
+  ~48995               +   +   +   +   +   +
+  ~48994 TO  ~48973    A   A   A   A   A   A
+  ~48972               +   +   +   +   +   +
+  ~48971 TO  ~48767    A   A   A   A   A   A
+  ~48766 TO  ~28299    +   +   A   A   A   +
+   26113 TO    8725    +   +   -   -   -   +
+   28345 TO   28312    A   A   A   A   A   A
+   27398 TO  ~52136    +   +   A   A   A   +
+  ~52135 TO  ~52121    A   A   A   A   A   A
+  ~52120 TO  ~51956    +   +   A   A   A   +
+  ~51955 TO  ~51927    A   A   A   A   A   A
+  ~51926 TO  ~51368    +   +   A   A   A   +
+  ~51367 TO  ~51335    A   A   A   A   A   A
+  ~51334 TO  ~51189    +   +   A   A   A   +
+  ~51188 TO  ~51162    A   A   A   A   A   A
+  ~51161               +   +   +   +   +   +
+  ~51160 TO  ~51148    A   A   A   A   A   A
+  ~51147 TO  ~51050    +   +   A   A   A   +
+  ~51049 TO  ~51036    A   A   A   A   A   A
+  ~51035               +   +   +   +   +   +
+  ~51034 TO  ~51027    A   A   A   A   A   A
+  ~51026               +   +   +   +   +   +
+  ~51025 TO  ~51005    A   A   A   A   A   A
+  ~51004               +   +   +   +   +   +
+  ~51003 TO  ~51001    A   A   A   A   A   A
+  ~51000               +   +   +   +   +   +
+  ~50999 TO  ~50978    A   A   A   A   A   A
+  ~50977               +   +   +   +   +   +
+  ~50976 TO  ~50773    A   A   A   A   A   A
+  ~50772 TO  ~28272    +   +   A   A   A   +
+   26188 TO    9178    +   +   -   -   -   +
+   28379 TO   28346    A   A   A   A   A   A
+   27399 TO  ~54146    +   +   A   A   A   +
+  ~54145 TO  ~54132    A   A   A   A   A   A
+  ~54131 TO  ~53966    +   +   A   A   A   +
+  ~53965 TO  ~53937    A   A   A   A   A   A
+  ~53936 TO  ~53377    +   +   A   A   A   +
+  ~53376 TO  ~53342    A   A   A   A   A   A
+  ~53341 TO  ~53196    +   +   A   A   A   +
+  ~53195 TO  ~53170    A   A   A   A   A   A
+  ~53169               +   +   +   +   +   +
+  ~53168 TO  ~53156    A   A   A   A   A   A
+  ~53155 TO  ~53058    +   +   A   A   A   +
+  ~53057 TO  ~53012    A   A   A   A   A   A
+  ~53011               +   +   +   +   +   +
+  ~53010 TO  ~53008    A   A   A   A   A   A
+  ~53007               +   +   +   +   +   +
+  ~53006 TO  ~52985    A   A   A   A   A   A
+  ~52984               +   +   +   +   +   +
+  ~52983 TO  ~52778    A   A   A   A   A   A
+  ~52777 TO  ~28274    +   +   A   A   A   +
+   26210 TO    9598    +   +   -   -   -   +
+   28413 TO   28380    A   A   A   A   A   A
+   27400 TO    9078    +   +   A   A   A   +
+  ~52840 TO  ~52837    A   A   A   A   A   A
+  ~56744 TO  ~56156    +   +   A   A   A   +
+  ~56155 TO  ~56142    A   A   A   A   A   A
+  ~56141 TO  ~55977    +   +   A   A   A   +
+  ~55976 TO  ~55948    A   A   A   A   A   A
+  ~55947 TO  ~55389    +   +   A   A   A   +
+  ~55388 TO  ~55356    A   A   A   A   A   A
+  ~55355 TO  ~55210    +   +   A   A   A   +
+  ~55209 TO  ~55183    A   A   A   A   A   A
+  ~55182               +   +   +   +   +   +
+  ~55181 TO  ~55169    A   A   A   A   A   A
+  ~55168 TO  ~55071    +   +   A   A   A   +
+  ~55070 TO  ~55057    A   A   A   A   A   A
+  ~55056               +   +   +   +   +   +
+  ~55055 TO  ~55048    A   A   A   A   A   A
+  ~55047               +   +   +   +   +   +
+  ~55046 TO  ~55026    A   A   A   A   A   A
+  ~55025               +   +   +   +   +   +
+  ~55024 TO  ~55022    A   A   A   A   A   A
+  ~55021               +   +   +   +   +   +
+  ~55020 TO  ~54999    A   A   A   A   A   A
+  ~54998               +   +   +   +   +   +
+  ~54997 TO  ~54793    A   A   A   A   A   A
+  ~54792 TO  ~28276    +   +   A   A   A   +
+   26242 TO   10206    +   +   -   -   -   +
+   28447 TO   28414    A   A   A   A   A   A
+     381 TO  ~56381    +   +   A   A   A   +
+  ~55368               A   A   A   A   A   A
+  ~58753 TO  ~58163    +   +   A   A   A   +
+  ~58162 TO  ~58148    A   A   A   A   A   A
+  ~58147 TO  ~57983    +   +   A   A   A   +
+  ~57982 TO  ~57954    A   A   A   A   A   A
+  ~57953 TO  ~57395    +   +   A   A   A   +
+  ~57394 TO  ~57362    A   A   A   A   A   A
+  ~57361 TO  ~57216    +   +   A   A   A   +
+  ~57215 TO  ~57189    A   A   A   A   A   A
+  ~57188               +   +   +   +   +   +
+  ~57187 TO  ~57175    A   A   A   A   A   A
+  ~57174 TO  ~57077    +   +   A   A   A   +
+  ~57076 TO  ~57063    A   A   A   A   A   A
+  ~57062               +   +   +   +   +   +
+  ~57061 TO  ~57055    A   A   A   A   A   A
+  ~57054               +   +   +   +   +   +
+  ~57053 TO  ~57033    A   A   A   A   A   A
+  ~57032               +   +   +   +   +   +
+  ~57031 TO  ~57029    A   A   A   A   A   A
+  ~57028               +   +   +   +   +   +
+  ~57027 TO  ~57006    A   A   A   A   A   A
+  ~57005               +   +   +   +   +   +
+  ~57004 TO  ~56801    A   A   A   A   A   A
+  ~56800 TO  ~28278    +   +   A   A   A   +
+   26469 TO   10851    +   +   -   -   -   +
+   28481 TO   28448    A   A   A   A   A   A
+   27401 TO   10816    +   +   A   A   A   +
+  ~56862 TO  ~58947    A   A   A   A   A   A
+  ~60763 TO  ~60173    +   +   A   A   A   +
+  ~60172 TO  ~60159    A   A   A   A   A   A
+  ~60158 TO  ~59994    +   +   A   A   A   +
+  ~59993 TO  ~59965    A   A   A   A   A   A
+  ~59964 TO  ~59406    +   +   A   A   A   +
+  ~59405 TO  ~59373    A   A   A   A   A   A
+  ~59372 TO  ~59227    +   +   A   A   A   +
+  ~59226 TO  ~59200    A   A   A   A   A   A
+  ~59199               +   +   +   +   +   +
+  ~59198 TO  ~59186    A   A   A   A   A   A
+  ~59185 TO  ~59088    +   +   A   A   A   +
+  ~59087 TO  ~59074    A   A   A   A   A   A
+  ~59073               +   +   +   +   +   +
+  ~59072 TO  ~59065    A   A   A   A   A   A
+  ~59064               +   +   +   +   +   +
+  ~59063 TO  ~59043    A   A   A   A   A   A
+  ~59042               +   +   +   +   +   +
+  ~59041 TO  ~59039    A   A   A   A   A   A
+  ~59038               +   +   +   +   +   +
+  ~59037 TO  ~59016    A   A   A   A   A   A
+  ~59015               +   +   +   +   +   +
+  ~59014 TO  ~58810    A   A   A   A   A   A
+  ~58809 TO  ~28280    +   +   A   A   A   +
+   26525 TO   11075    +   +   -   -   -   +
+   28515 TO   28482    A   A   A   A   A   A
+   27402 TO   11685    +   +   A   A   A   +
+  ~59385 TO  ~59019    A   A   A   A   A   A
+  ~62772 TO  ~62182    +   +   A   A   A   +
+  ~62181 TO  ~62167    A   A   A   A   A   A
+  ~62166 TO  ~62003    +   +   A   A   A   +
+  ~62002 TO  ~61974    A   A   A   A   A   A
+  ~61973 TO  ~61415    +   +   A   A   A   +
+  ~61414 TO  ~61382    A   A   A   A   A   A
+  ~61381 TO  ~61236    +   +   A   A   A   +
+  ~61235 TO  ~61209    A   A   A   A   A   A
+  ~61208               +   +   +   +   +   +
+  ~61207 TO  ~61195    A   A   A   A   A   A
+  ~61194 TO  ~61097    +   +   A   A   A   +
+  ~61096 TO  ~61083    A   A   A   A   A   A
+  ~61082               +   +   +   +   +   +
+  ~61081 TO  ~61074    A   A   A   A   A   A
+  ~61073               +   +   +   +   +   +
+  ~61072 TO  ~61052    A   A   A   A   A   A
+  ~61051               +   +   +   +   +   +
+  ~61050 TO  ~61048    A   A   A   A   A   A
+  ~61047               +   +   +   +   +   +
+  ~61046 TO  ~61025    A   A   A   A   A   A
+  ~61024               +   +   +   +   +   +
+  ~61023 TO  ~60820    A   A   A   A   A   A
+  ~60819 TO  ~28282    +   +   A   A   A   +
+   26526 TO   11756    +   +   -   -   -   +
+   28549 TO   28516    A   A   A   A   A   A
+   27403 TO  ~63781    +   +   A   A   A   +
+  ~63780 TO  ~63767    A   A   A   A   A   A
+  ~63766 TO  ~63560    +   +   A   A   A   +
+  ~63559 TO  ~63531    A   A   A   A   A   A
+  ~63530 TO  ~63227    +   +   A   A   A   +
+  ~63226 TO  ~63194    A   A   A   A   A   A
+  ~63193 TO  ~63182    +   +   A   A   A   +
+  ~63181 TO  ~63156    A   A   A   A   A   A
+  ~63155               +   +   +   +   +   +
+  ~63154 TO  ~63142    A   A   A   A   A   A
+  ~63141 TO  ~63113    +   +   A   A   A   +
+  ~63112 TO  ~63067    A   A   A   A   A   A
+  ~63066               +   +   +   +   +   +
+  ~63065 TO  ~63063    A   A   A   A   A   A
+  ~63062               +   +   +   +   +   +
+  ~63061 TO  ~63040    A   A   A   A   A   A
+  ~63039               +   +   +   +   +   +
+  ~63038 TO  ~62833    A   A   A   A   A   A
+  ~62832 TO  ~28349    +   +   A   A   A   +
+  ~28298               A   A   A   A   A   A
+   26527 TO   12205    +   +   -   -   -   +
+   28583 TO   28550    A   A   A   A   A   A
+   27229 TO   13423    +   +   A   A   A   +
+  ~63206               A   A   A   A   A   A
+  ~64887 TO  ~65951    +   +   A   A   A   +
+  ~65950 TO  ~65937    A   A   A   A   A   A
+  ~65936 TO  ~65830    +   +   A   A   A   +
+  ~65829 TO  ~65801    A   A   A   A   A   A
+  ~65800 TO  ~65441    +   +   A   A   A   +
+  ~65440 TO  ~65407    A   A   A   A   A   A
+  ~65406 TO  ~65292    +   +   A   A   A   +
+  ~65291 TO  ~65265    A   A   A   A   A   A
+  ~65264               +   +   +   +   +   +
+  ~65263 TO  ~65251    A   A   A   A   A   A
+  ~65250 TO  ~65106    +   +   A   A   A   +
+  ~65105 TO  ~65092    A   A   A   A   A   A
+  ~65091               +   +   +   +   +   +
+  ~65090 TO  ~65083    A   A   A   A   A   A
+  ~65082               +   +   +   +   +   +
+  ~65081 TO  ~65069    A   A   A   A   A   A
+  ~65068 TO  ~64748    +   +   A   A   A   +
+  ~64747 TO  ~64741    A   A   A   A   A   A
+  ~64740               +   +   +   +   +   +
+  ~64739 TO  ~64737    A   A   A   A   A   A
+  ~64736               +   +   +   +   +   +
+  ~64735 TO  ~64714    A   A   A   A   A   A
+  ~64713               +   +   +   +   +   +
+  ~64712 TO  ~64508    A   A   A   A   A   A
+  ~64507 TO  ~28290    +   +   A   A   A   +
+   26529 TO   12813    +   +   -   -   -   +
+   28617 TO   28584    A   A   A   A   A   A
+   25962 TO  ~68315    +   +   A   A   A   +
+  ~66605 TO  ~66603    A   A   A   A   A   A
+  ~68417 TO  ~67832    +   +   A   A   A   +
+  ~67831 TO  ~67817    A   A   A   A   A   A
+  ~67816 TO  ~67651    +   +   A   A   A   +
+  ~67650 TO  ~67622    A   A   A   A   A   A
+  ~67621 TO  ~67063    +   +   A   A   A   +
+  ~67062 TO  ~67030    A   A   A   A   A   A
+  ~67029 TO  ~66884    +   +   A   A   A   +
+  ~66883 TO  ~66857    A   A   A   A   A   A
+  ~66856               +   +   +   +   +   +
+  ~66855 TO  ~66843    A   A   A   A   A   A
+  ~66842 TO  ~66745    +   +   A   A   A   +
+  ~66744 TO  ~66731    A   A   A   A   A   A
+  ~66730               +   +   +   +   +   +
+  ~66729 TO  ~66723    A   A   A   A   A   A
+  ~66722               +   +   +   +   +   +
+  ~66721 TO  ~66701    A   A   A   A   A   A
+  ~66700               +   +   +   +   +   +
+  ~66699 TO  ~66697    A   A   A   A   A   A
+  ~66696               +   +   +   +   +   +
+  ~66695 TO  ~66674    A   A   A   A   A   A
+  ~66673               +   +   +   +   +   +
+  ~66672 TO  ~66469    A   A   A   A   A   A
+  ~66468 TO  ~28256    +   +   A   A   A   +
+   26530 TO   13446    +   +   -   -   -   +
+   28651 TO   28618    A   A   A   A   A   A
+   27404 TO  ~69837    +   +   A   A   A   +
+  ~69836 TO  ~69823    A   A   A   A   A   A
+  ~69822 TO  ~69658    +   +   A   A   A   +
+  ~69657 TO  ~69629    A   A   A   A   A   A
+  ~69628 TO  ~69070    +   +   A   A   A   +
+  ~69069 TO  ~69037    A   A   A   A   A   A
+  ~69036 TO  ~68891    +   +   A   A   A   +
+  ~68890 TO  ~68864    A   A   A   A   A   A
+  ~68863               +   +   +   +   +   +
+  ~68862 TO  ~68850    A   A   A   A   A   A
+  ~68849 TO  ~68752    +   +   A   A   A   +
+  ~68751 TO  ~68738    A   A   A   A   A   A
+  ~68737               +   +   +   +   +   +
+  ~68736 TO  ~68729    A   A   A   A   A   A
+  ~68728               +   +   +   +   +   +
+  ~68727 TO  ~68707    A   A   A   A   A   A
+  ~68706               +   +   +   +   +   +
+  ~68705 TO  ~68703    A   A   A   A   A   A
+  ~68702               +   +   +   +   +   +
+  ~68701 TO  ~68680    A   A   A   A   A   A
+  ~68679               +   +   +   +   +   +
+  ~68678 TO  ~68474    A   A   A   A   A   A
+  ~68473 TO  ~28258    +   +   A   A   A   +
+   26531 TO   13611    +   +   -   -   -   +
+   28685 TO   28652    A   A   A   A   A   A
+   27405 TO    1931    +   +   A   A   A   +
+  ~68685 TO  ~68683    A   A   A   A   A   A
+  ~72436 TO  ~71846    +   +   A   A   A   +
+  ~71845 TO  ~71831    A   A   A   A   A   A
+  ~71830 TO  ~71667    +   +   A   A   A   +
+  ~71666 TO  ~71638    A   A   A   A   A   A
+  ~71637 TO  ~71079    +   +   A   A   A   +
+  ~71078 TO  ~71046    A   A   A   A   A   A
+  ~71045 TO  ~70900    +   +   A   A   A   +
+  ~70899 TO  ~70873    A   A   A   A   A   A
+  ~70872               +   +   +   +   +   +
+  ~70871 TO  ~70859    A   A   A   A   A   A
+  ~70858 TO  ~70761    +   +   A   A   A   +
+  ~70760 TO  ~70747    A   A   A   A   A   A
+  ~70746               +   +   +   +   +   +
+  ~70745 TO  ~70738    A   A   A   A   A   A
+  ~70737               +   +   +   +   +   +
+  ~70736 TO  ~70716    A   A   A   A   A   A
+  ~70715               +   +   +   +   +   +
+  ~70714 TO  ~70712    A   A   A   A   A   A
+  ~70711               +   +   +   +   +   +
+  ~70710 TO  ~70689    A   A   A   A   A   A
+  ~70688               +   +   +   +   +   +
+  ~70687 TO  ~70484    A   A   A   A   A   A
+  ~70483 TO  ~28260    +   +   A   A   A   +
+   26532 TO   13872    +   +   -   -   -   +
+   28719 TO   28686    A   A   A   A   A   A
+   27406 TO  ~73860    +   +   A   A   A   +
+  ~73859 TO  ~73846    A   A   A   A   A   A
+  ~73845 TO  ~73679    +   +   A   A   A   +
+  ~73678 TO  ~73650    A   A   A   A   A   A
+  ~73649 TO  ~73090    +   +   A   A   A   +
+  ~73089 TO  ~73057    A   A   A   A   A   A
+  ~73056 TO  ~72911    +   +   A   A   A   +
+  ~72910 TO  ~72885    A   A   A   A   A   A
+  ~72884               +   +   +   +   +   +
+  ~72883 TO  ~72871    A   A   A   A   A   A
+  ~72870 TO  ~72773    +   +   A   A   A   +
+  ~72772 TO  ~72727    A   A   A   A   A   A
+  ~72726               +   +   +   +   +   +
+  ~72725 TO  ~72723    A   A   A   A   A   A
+  ~72722               +   +   +   +   +   +
+  ~72721 TO  ~72700    A   A   A   A   A   A
+  ~72699               +   +   +   +   +   +
+  ~72698 TO  ~72493    A   A   A   A   A   A
+  ~72492 TO  ~28262    +   +   A   A   A   +
+   26533 TO   14551    +   +   -   -   -   +
+   28753 TO   28720    A   A   A   A   A   A
+   27407 TO  ~76231    +   +   A   A   A   +
+  ~74903 TO  ~74902    A   A   A   A   A   A
+  ~74819 TO  ~74818    +   +   A   A   A   +
+  ~74766 TO  ~74639    A   A   A   A   A   A
+  ~76457 TO  ~75868    +   +   A   A   A   +
+  ~75867 TO  ~75854    A   A   A   A   A   A
+  ~75853 TO  ~75689    +   +   A   A   A   +
+  ~75688 TO  ~75660    A   A   A   A   A   A
+  ~75659 TO  ~75101    +   +   A   A   A   +
+  ~75100 TO  ~75068    A   A   A   A   A   A
+  ~75067 TO  ~74922    +   +   A   A   A   +
+  ~74921 TO  ~74895    A   A   A   A   A   A
+  ~74894               +   +   +   +   +   +
+  ~74893 TO  ~74881    A   A   A   A   A   A
+  ~74880 TO  ~74783    +   +   A   A   A   +
+  ~74782 TO  ~74769    A   A   A   A   A   A
+  ~74768               +   +   +   +   +   +
+  ~74767 TO  ~74760    A   A   A   A   A   A
+  ~74759               +   +   +   +   +   +
+  ~74758 TO  ~74738    A   A   A   A   A   A
+  ~74737               +   +   +   +   +   +
+  ~74736 TO  ~74734    A   A   A   A   A   A
+  ~74733               +   +   +   +   +   +
+  ~74732 TO  ~74711    A   A   A   A   A   A
+  ~74710               +   +   +   +   +   +
+  ~74709 TO  ~74505    A   A   A   A   A   A
+  ~74504 TO  ~28264    +   +   A   A   A   +
+   26534 TO   14743    +   +   -   -   -   +
+   28787 TO   28754    A   A   A   A   A   A
+   27408 TO  ~76093    +   +   A   A   A   +
+  ~75082 TO  ~74563    A   A   A   A   A   A
+  ~78466 TO  ~77876    +   +   A   A   A   +
+  ~77875 TO  ~77861    A   A   A   A   A   A
+  ~77860 TO  ~77696    +   +   A   A   A   +
+  ~77695 TO  ~77667    A   A   A   A   A   A
+  ~77666 TO  ~77108    +   +   A   A   A   +
+  ~77107 TO  ~77075    A   A   A   A   A   A
+  ~77074 TO  ~76929    +   +   A   A   A   +
+  ~76928 TO  ~76902    A   A   A   A   A   A
+  ~76901               +   +   +   +   +   +
+  ~76900 TO  ~76888    A   A   A   A   A   A
+  ~76887 TO  ~76790    +   +   A   A   A   +
+  ~76789 TO  ~76776    A   A   A   A   A   A
+  ~76775               +   +   +   +   +   +
+  ~76774 TO  ~76768    A   A   A   A   A   A
+  ~76767               +   +   +   +   +   +
+  ~76766 TO  ~76746    A   A   A   A   A   A
+  ~76745               +   +   +   +   +   +
+  ~76744 TO  ~76742    A   A   A   A   A   A
+  ~76741               +   +   +   +   +   +
+  ~76740 TO  ~76719    A   A   A   A   A   A
+  ~76718               +   +   +   +   +   +
+  ~76717 TO  ~76514    A   A   A   A   A   A
+  ~76513 TO  ~28266    +   +   A   A   A   +
+   26599 TO   14745    +   +   -   -   -   +
+   28821 TO   28788    A   A   A   A   A   A
+   27409 TO    5407    +   +   A   A   A   +
+  ~77087               A   A   A   A   A   A
+  ~80248               +   +   A   A   A   +
+  ~79691 TO  ~78660    A   A   A   A   A   A
+  ~80472 TO  ~79887    +   +   A   A   A   +
+  ~79886 TO  ~79873    A   A   A   A   A   A
+  ~79872 TO  ~79707    +   +   A   A   A   +
+  ~79706 TO  ~79678    A   A   A   A   A   A
+  ~79677 TO  ~79119    +   +   A   A   A   +
+  ~79118 TO  ~79086    A   A   A   A   A   A
+  ~79085 TO  ~78940    +   +   A   A   A   +
+  ~78939 TO  ~78913    A   A   A   A   A   A
+  ~78912               +   +   +   +   +   +
+  ~78911 TO  ~78899    A   A   A   A   A   A
+  ~78898 TO  ~78801    +   +   A   A   A   +
+  ~78800 TO  ~78787    A   A   A   A   A   A
+  ~78786               +   +   +   +   +   +
+  ~78785 TO  ~78778    A   A   A   A   A   A
+  ~78777               +   +   +   +   +   +
+  ~78776 TO  ~78756    A   A   A   A   A   A
+  ~78755               +   +   +   +   +   +
+  ~78754 TO  ~78752    A   A   A   A   A   A
+  ~78751               +   +   +   +   +   +
+  ~78750 TO  ~78729    A   A   A   A   A   A
+  ~78728               +   +   +   +   +   +
+  ~78727 TO  ~78523    A   A   A   A   A   A
+  ~78522 TO  ~28254    +   +   A   A   A   +
+   26680 TO   14747    +   +   -   -   -   +
+   28855 TO   28822    A   A   A   A   A   A
+   27410 TO       3    +   +   A   A   A   +
+  ~79100 TO  ~78582    A   A   A   A   A   A
+  ~82563 TO  ~82561    +   +   A   A   A   +
+  ~82560 TO  ~82557    A   A   A   A   A   A
+  ~82556 TO  ~82548    +   +   A   A   A   +
+  ~82547 TO  ~82544    A   A   A   A   A   A
+  ~82543 TO  ~82517    +   +   A   A   A   +
+  ~82516 TO  ~82515    A   A   A   A   A   A
+  ~82514 TO  ~82507    +   +   A   A   A   +
+  ~82506               A   A   A   A   A   A
+  ~82505 TO  ~82407    +   +   A   A   A   +
+  ~82406               A   A   A   A   A   A
+  ~82405 TO  ~82404    +   +   A   A   A   +
+  ~82403               A   A   A   A   A   A
+  ~82402 TO  ~82111    +   +   A   A   A   +
+  ~82110 TO  ~82106    A   A   A   A   A   A
+  ~82105 TO  ~82078    +   +   A   A   A   +
+  ~82077 TO  ~82072    A   A   A   A   A   A
+  ~82071 TO  ~81953    +   +   A   A   A   +
+  ~81952 TO  ~81938    A   A   A   A   A   A
+  ~81937 TO  ~81919    +   +   A   A   A   +
+  ~81918 TO  ~81913    A   A   A   A   A   A
+  ~81912 TO  ~81776    +   +   A   A   A   +
+  ~81775 TO  ~81747    A   A   A   A   A   A
+  ~81746 TO  ~81735    +   +   A   A   A   +
+  ~81734 TO  ~81723    A   A   A   A   A   A
+  ~81722 TO  ~81679    +   +   A   A   A   +
+  ~81678 TO  ~81667    A   A   A   A   A   A
+  ~81666 TO  ~81561    +   +   A   A   A   +
+  ~81560 TO  ~81557    A   A   A   A   A   A
+  ~81556               +   +   A   A   A   +
+  ~81555 TO  ~81550    A   A   A   A   A   A
+  ~81549               +   +   A   A   A   +
+  ~81548               A   A   A   A   A   A
+  ~81547 TO  ~81498    +   +   A   A   A   +
+  ~81497 TO  ~81496    A   A   A   A   A   A
+  ~81495               +   +   A   A   A   +
+  ~81494 TO  ~81491    A   A   A   A   A   A
+  ~81490               +   +   A   A   A   +
+  ~81489 TO  ~81488    A   A   A   A   A   A
+  ~81487               +   +   A   A   A   +
+  ~81486               A   A   A   A   A   A
+  ~81485               +   +   A   A   A   +
+  ~81484               A   A   A   A   A   A
+  ~81483 TO  ~81124    +   +   A   A   A   +
+  ~81123 TO  ~81091    A   A   A   A   A   A
+  ~81090 TO  ~80945    +   +   A   A   A   +
+  ~80944 TO  ~80918    A   A   A   A   A   A
+  ~80917               +   +   +   +   +   +
+  ~80916 TO  ~80904    A   A   A   A   A   A
+  ~80903 TO  ~80806    +   +   A   A   A   +
+  ~80805 TO  ~80792    A   A   A   A   A   A
+  ~80791               +   +   +   +   +   +
+  ~80790 TO  ~80783    A   A   A   A   A   A
+  ~80782               +   +   +   +   +   +
+  ~80781 TO  ~80761    A   A   A   A   A   A
+  ~80760               +   +   +   +   +   +
+  ~80759 TO  ~80757    A   A   A   A   A   A
+  ~80756               +   +   +   +   +   +
+  ~80755 TO  ~80734    A   A   A   A   A   A
+  ~80733               +   +   +   +   +   +
+  ~80732 TO  ~80529    A   A   A   A   A   A
+  ~80528 TO  ~80473    +   +   A   A   A   +
+  ~28287               A   A   A   A   A   A
+  ~28286               +   +   A   A   A   +
+   26699 TO   14749    +   +   -   -   -   +
+   27618 TO   26516    A   A   A   A   A   A
+   13657 TO   27293    +   +   A   A   A   +
+   27466 TO   27463    A   A   A   A   A   A
+   27462               +   +   A   A   A   +
+   27461 TO   27459    A   A   A   A   A   A
+   27458               +   +   A   A   A   +
+   27457               A   A   A   A   A   A
+   27456               +   +   A   A   A   +
+   27455 TO   27440    A   A   A   A   A   A
+   27439               +   +   A   A   A   +
+   27438 TO   27433    A   A   A   A   A   A
+   27432               +   +   A   A   A   +
+   27431 TO   27430    A   A   A   A   A   A
+   27411 TO       1    +   +   A   A   A   +
+  ~82848               A   A   A   A   A   A
+  ~85033 TO  ~85031    +   +   A   A   A   +
+  ~85030 TO  ~85027    A   A   A   A   A   A
+  ~85026 TO  ~85018    +   +   A   A   A   +
+  ~85017 TO  ~85014    A   A   A   A   A   A
+  ~85013 TO  ~84989    +   +   A   A   A   +
+  ~84988 TO  ~84987    A   A   A   A   A   A
+  ~84986 TO  ~84979    +   +   A   A   A   +
+  ~84978               A   A   A   A   A   A
+  ~84977 TO  ~84883    +   +   A   A   A   +
+  ~84882               A   A   A   A   A   A
+  ~84881 TO  ~84880    +   +   A   A   A   +
+  ~84879               A   A   A   A   A   A
+  ~84878 TO  ~84714    +   +   A   A   A   +
+  ~84713 TO  ~84712    A   A   A   A   A   A
+  ~84711 TO  ~84683    +   +   A   A   A   +
+  ~84682               A   A   A   A   A   A
+  ~84681 TO  ~84612    +   +   A   A   A   +
+  ~84611               A   A   A   A   A   A
+  ~84610 TO  ~84588    +   +   A   A   A   +
+  ~84587 TO  ~84583    A   A   A   A   A   A
+  ~84582 TO  ~84557    +   +   A   A   A   +
+  ~84556 TO  ~84551    A   A   A   A   A   A
+  ~84550 TO  ~84474    +   +   A   A   A   +
+  ~84473 TO  ~84470    A   A   A   A   A   A
+  ~84469 TO  ~84432    +   +   A   A   A   +
+  ~84431 TO  ~84418    A   A   A   A   A   A
+  ~84417 TO  ~84398    +   +   A   A   A   +
+  ~84397 TO  ~84392    A   A   A   A   A   A
+  ~84391 TO  ~84319    +   +   A   A   A   +
+  ~84318               A   A   A   A   A   A
+  ~84317               +   +   A   A   A   +
+  ~84316 TO  ~84313    A   A   A   A   A   A
+  ~84312               +   +   A   A   A   +
+  ~84311 TO  ~84310    A   A   A   A   A   A
+  ~84309               +   +   A   A   A   +
+  ~84308 TO  ~84307    A   A   A   A   A   A
+  ~84306 TO  ~84244    +   +   A   A   A   +
+  ~84243 TO  ~84215    A   A   A   A   A   A
+  ~84214 TO  ~84203    +   +   A   A   A   +
+  ~84202 TO  ~84191    A   A   A   A   A   A
+  ~84190 TO  ~84147    +   +   A   A   A   +
+  ~84146 TO  ~84135    A   A   A   A   A   A
+  ~84134 TO  ~84074    +   +   A   A   A   +
+  ~84073 TO  ~84060    A   A   A   A   A   A
+  ~84059 TO  ~84051    +   +   A   A   A   +
+  ~84050 TO  ~84049    A   A   A   A   A   A
+  ~84048               +   +   A   A   A   +
+  ~84047 TO  ~84010    A   A   A   A   A   A
+  ~84009 TO  ~83995    +   +   A   A   A   +
+  ~83994 TO  ~83990    A   A   A   A   A   A
+  ~83989               +   +   A   A   A   +
+  ~83988 TO  ~83984    A   A   A   A   A   A
+  ~83983 TO  ~83974    +   +   A   A   A   +
+  ~83973 TO  ~83970    A   A   A   A   A   A
+  ~83969               +   +   A   A   A   +
+  ~83968 TO  ~83963    A   A   A   A   A   A
+  ~83962               +   +   A   A   A   +
+  ~83961               A   A   A   A   A   A
+  ~83960 TO  ~83911    +   +   A   A   A   +
+  ~83910 TO  ~83909    A   A   A   A   A   A
+  ~83908               +   +   A   A   A   +
+  ~83907 TO  ~83904    A   A   A   A   A   A
+  ~83903               +   +   A   A   A   +
+  ~83902 TO  ~83901    A   A   A   A   A   A
+  ~83900               +   +   A   A   A   +
+  ~83899               A   A   A   A   A   A
+  ~83898               +   +   A   A   A   +
+  ~83897               A   A   A   A   A   A
+  ~83896 TO  ~83794    +   +   A   A   A   +
+  ~83793 TO  ~83765    A   A   A   A   A   A
+  ~83764 TO  ~83744    +   +   A   A   A   +
+  ~83743 TO  ~83726    A   A   A   A   A   A
+  ~83725               +   +   A   A   A   +
+  ~83724 TO  ~83709    A   A   A   A   A   A
+  ~83708               +   +   A   A   A   +
+  ~83707 TO  ~83693    A   A   A   A   A   A
+  ~83692               +   +   A   A   A   +
+  ~83691 TO  ~83681    A   A   A   A   A   A
+  ~83680 TO  ~83661    +   +   A   A   A   +
+  ~83660 TO  ~83652    A   A   A   A   A   A
+  ~83651 TO  ~83562    +   +   A   A   A   +
+  ~83561               A   A   A   A   A   A
+  ~83560               +   +   +   +   +   +
+  ~83559 TO  ~83547    A   A   A   A   A   A
+  ~83546 TO  ~83422    +   +   A   A   A   +
+  ~83421 TO  ~83362    A   A   A   A   A   A
+  ~83361 TO  ~83216    +   +   A   A   A   +
+  ~83215 TO  ~83195    A   A   A   A   A   A
+  ~83194               +   +   +   +   +   +
+  ~83193 TO  ~83185    A   A   A   A   A   A
+  ~83184 TO  ~83087    +   +   A   A   A   +
+  ~83086 TO  ~83038    A   A   A   A   A   A
+  ~83037               +   +   A   A   A   +
+  ~83036 TO  ~83029    A   A   A   A   A   A
+  ~83028               +   +   A   A   A   +
+  ~83027 TO  ~83019    A   A   A   A   A   A
+  ~83018               +   +   A   A   A   +
+  ~83017 TO  ~82941    A   A   A   A   A   A
+  ~82940               +   +   +   +   +   +
+  ~82939 TO  ~82624    A   A   A   A   A   A
+  ~82623               +   +   +   +   +   +
+  ~82622 TO  ~82620    A   A   A   A   A   A
+  ~82619 TO  ~82564    +   +   A   A   A   +
+  ~28289               A   A   A   A   A   A
+  ~28288               +   +   A   A   A   +
+   26716 TO   14751    +   +   -   -   -   +
+   27340 TO   27335    A   A   A   A   A   A
+   27334               +   +   A   A   A   +
+   27333 TO   27279    A   A   A   A   A   A
+   15196               +   +   A   A   A   +
+   13717 TO   11720    A   A   A   A   A   A
+     140 TO   27262    +   +   A   A   A   +
+   27258               A   A   A   A   A   A
+   27241 TO   27294    +   +   A   A   A   +
+   27505 TO   27501    A   A   A   A   A   A
+   27500               +   +   A   A   A   +
+   27499 TO   27497    A   A   A   A   A   A
+   27496               +   +   A   A   A   +
+   27495               A   A   A   A   A   A
+   27494 TO   27493    +   +   A   A   A   +
+   27492 TO   27477    A   A   A   A   A   A
+   27476               +   +   A   A   A   +
+   27475 TO   27470    A   A   A   A   A   A
+   27469               +   +   A   A   A   +
+   27468 TO   27467    A   A   A   A   A   A
+   27412 TO  ~84676    +   +   A   A   A   +
+  ~83376               A   A   A   A   A   A
+  ~87086 TO  ~86777    +   +   A   A   A   +
+  ~86531 TO  ~86343    A   A   A   A   A   A
+  ~86102 TO  ~87103    +   +   A   A   A   +
+  ~87102 TO  ~87101    A   A   A   A   A   A
+  ~87100 TO  ~87053    +   +   A   A   A   +
+  ~87052               A   A   A   A   A   A
+  ~87051 TO  ~87025    +   +   A   A   A   +
+  ~87024 TO  ~87010    A   A   A   A   A   A
+  ~87009 TO  ~87002    +   +   A   A   A   +
+  ~87001 TO  ~86995    A   A   A   A   A   A
+  ~86994 TO  ~86965    +   +   A   A   A   +
+  ~86964 TO  ~86936    A   A   A   A   A   A
+  ~86935 TO  ~86929    +   +   A   A   A   +
+  ~86928 TO  ~86916    A   A   A   A   A   A
+  ~86915 TO  ~86910    +   +   A   A   A   +
+  ~86909 TO  ~86874    A   A   A   A   A   A
+  ~86873 TO  ~86807    +   +   A   A   A   +
+  ~86806 TO  ~86778    A   A   A   A   A   A
+  ~86776 TO  ~86703    +   +   A   A   A   +
+  ~86702 TO  ~86679    A   A   A   A   A   A
+  ~86678 TO  ~86647    +   +   A   A   A   +
+  ~86646 TO  ~86586    A   A   A   A   A   A
+  ~86585 TO  ~86547    +   +   A   A   A   +
+  ~86546 TO  ~86525    A   A   A   A   A   A
+  ~86524               +   +   +   +   +   +
+  ~86523 TO  ~86515    A   A   A   A   A   A
+  ~86514 TO  ~86364    +   +   A   A   A   +
+  ~86363 TO  ~86349    A   A   A   A   A   A
+  ~86348               +   +   +   +   +   +
+  ~86347 TO  ~86339    A   A   A   A   A   A
+  ~86338               +   +   +   +   +   +
+  ~86337 TO  ~86325    A   A   A   A   A   A
+  ~86324 TO  ~85841    +   +   A   A   A   +
+  ~85840 TO  ~85804    A   A   A   A   A   A
+  ~85803               +   +   +   +   +   +
+  ~85802 TO  ~85747    A   A   A   A   A   A
+  ~85746 TO  ~85679    +   +   A   A   A   +
+  ~85678 TO  ~85602    A   A   A   A   A   A
+  ~85601 TO  ~85373    +   +   A   A   A   +
+  ~85372 TO  ~85341    A   A   A   A   A   A
+  ~85340 TO  ~85297    +   +   A   A   A   +
+  ~85296 TO  ~85143    A   A   A   A   A   A
+  ~85142 TO  ~28332    +   +   A   A   A   +
+   26718 TO   14753    +   +   -   -   -   +
+   27271               A   A   A   A   A   A
+   27256               +   +   A   A   A   +
+   27658 TO   27644    A   A   A   A   A   A
+   27636               +   +   A   A   A   +
+   27627 TO   27556    A   A   A   A   A   A
+    9113 TO  ~86986    +   +   A   A   A   +
+  ~86948 TO  ~86601    A   A   A   A   A   A
+  ~86101 TO  ~85970    +   +   A   A   A   +
+  ~85788 TO  ~85786    A   A   A   A   A   A
+  ~85485 TO  ~85446    +   +   A   A   A   +
+  ~85263 TO  ~85259    A   A   A   A   A   A
+  ~91123 TO  ~91119    +   +   A   A   A   +
+  ~91118               A   A   A   A   A   A
+  ~91117 TO  ~91069    +   +   A   A   A   +
+  ~91068 TO  ~91060    A   A   A   A   A   A
+  ~91059 TO  ~91039    +   +   A   A   A   +
+  ~91038 TO  ~91021    A   A   A   A   A   A
+  ~91020 TO  ~91012    +   +   A   A   A   +
+  ~91011 TO  ~90989    A   A   A   A   A   A
+  ~90988 TO  ~90937    +   +   A   A   A   +
+  ~90936 TO  ~90907    A   A   A   A   A   A
+  ~90906 TO  ~90878    +   +   A   A   A   +
+  ~90877 TO  ~90861    A   A   A   A   A   A
+  ~90860 TO  ~90847    +   +   A   A   A   +
+  ~90846 TO  ~90842    A   A   A   A   A   A
+  ~90841 TO  ~90698    +   +   A   A   A   +
+  ~90697 TO  ~90637    A   A   A   A   A   A
+  ~90636 TO  ~90630    +   +   A   A   A   +
+  ~90629               +   +   +   +   +   +
+  ~90628 TO  ~90619    +   +   A   A   A   +
+  ~90618 TO  ~90585    A   A   A   A   A   A
+  ~90584 TO  ~90583    +   +   A   A   A   +
+  ~90582               +   +   +   +   +   +
+  ~90581 TO  ~90547    +   +   A   A   A   +
+  ~90546 TO  ~90536    A   A   A   A   A   A
+  ~90535 TO  ~90497    +   +   A   A   A   +
+  ~90496 TO  ~90475    A   A   A   A   A   A
+  ~90474               +   +   +   +   +   +
+  ~90473 TO  ~90465    A   A   A   A   A   A
+  ~90464 TO  ~90344    +   +   A   A   A   +
+  ~90343 TO  ~90292    A   A   A   A   A   A
+  ~90291 TO  ~90224    +   +   A   A   A   +
+  ~90223 TO  ~90197    A   A   A   A   A   A
+  ~90196 TO  ~90178    +   +   A   A   A   +
+  ~90177 TO  ~90150    A   A   A   A   A   A
+  ~90149 TO  ~90132    +   +   A   A   A   +
+  ~90131 TO  ~90097    A   A   A   A   A   A
+  ~90096 TO  ~90045    +   +   A   A   A   +
+  ~90044 TO  ~90029    A   A   A   A   A   A
+  ~90028               +   +   +   +   +   +
+  ~90027 TO  ~90017    A   A   A   A   A   A
+  ~90016               +   +   +   +   +   +
+  ~90015 TO  ~90003    A   A   A   A   A   A
+  ~90002 TO  ~89922    +   +   A   A   A   +
+  ~89921               +   +   +   +   +   +
+  ~89920 TO  ~89760    +   +   A   A   A   +
+  ~89759 TO  ~89698    A   A   A   A   A   A
+  ~89697 TO  ~89696    +   +   +   +   +   +
+  ~89695 TO  ~89644    A   A   A   A   A   A
+  ~89643 TO  ~89571    +   +   A   A   A   +
+  ~89570 TO  ~89182    A   A   A   A   A   A
+  ~89181 TO  ~89158    +   +   A   A   A   +
+  ~89157               +   +   +   +   +   +
+  ~89156 TO  ~89079    +   +   A   A   A   +
+  ~89078 TO  ~89036    A   A   A   A   A   A
+  ~89035 TO  ~88690    +   +   A   A   A   +
+  ~88689 TO  ~88665    A   A   A   A   A   A
+  ~88664 TO  ~88405    +   +   A   A   A   +
+  ~88404               +   +   +   +   +   +
+  ~88403 TO  ~88397    +   +   A   A   A   +
+  ~88396               +   +   +   +   +   +
+  ~88395 TO  ~88391    +   +   A   A   A   +
+  ~88390               +   +   +   +   +   +
+  ~88389 TO  ~88352    +   +   A   A   A   +
+  ~88351 TO  ~88348    A   A   A   A   A   A
+  ~88347               +   +   A   A   A   +
+  ~88346               A   A   A   A   A   A
+  ~88345               +   +   A   A   A   +
+  ~88344 TO  ~88335    A   A   A   A   A   A
+  ~88334               +   +   A   A   A   +
+  ~88333 TO  ~88329    A   A   A   A   A   A
+  ~88328               +   +   A   A   A   +
+  ~88327 TO  ~88318    A   A   A   A   A   A
+  ~88317 TO  ~88285    +   +   A   A   A   +
+  ~88284 TO  ~88273    A   A   A   A   A   A
+  ~88272               +   +   +   +   +   +
+  ~88271 TO  ~88214    A   A   A   A   A   A
+  ~88213 TO  ~88076    +   +   A   A   A   +
+  ~88075 TO  ~88001    A   A   A   A   A   A
+  ~88000 TO  ~87964    +   +   A   A   A   +
+  ~87963               +   +   +   +   +   +
+  ~87962 TO  ~87722    +   +   A   A   A   +
+  ~87721 TO  ~87666    A   A   A   A   A   A
+  ~87665 TO  ~87603    +   +   A   A   A   +
+  ~87602 TO  ~87528    A   A   A   A   A   A
+  ~87527 TO  ~87450    +   +   A   A   A   +
+  ~87449 TO  ~87184    A   A   A   A   A   A
+  ~87183 TO  ~87121    +   +   A   A   A   +
+  ~28356               A   A   A   A   A   A
+  ~28355 TO  ~28354    +   +   A   A   A   +
+  ~28337               A   A   A   A   A   A
+  ~28335 TO  ~28334    +   +   A   A   A   +
+   26726 TO   14756    +   +   -   -   -   +
+   27278 TO   27275    A   A   A   A   A   A
+   27268               +   +   A   A   A   +
+   27270 TO   27265    A   A   A   A   A   A
+   27550 TO   27545    +   +   A   A   A   +
+   27544 TO   16361    A   A   A   A   A   A
+   16058 TO     141    +   +   A   A   A   +
+     685               A   A   A   A   A   A
+   26190 TO   26189    +   +   A   A   A   +
+   26472 TO   16062    A   A   A   A   A   A
+   16061 TO   15375    +   +   A   A   A   +
+   27263 TO   27236    A   A   A   A   A   A
+   27416 TO  ~95033    +   +   A   A   A   +
+  ~95032 TO  ~95026    A   A   A   A   A   A
+  ~95025 TO  ~95011    +   +   A   A   A   +
+  ~95010 TO  ~94992    A   A   A   A   A   A
+  ~94991 TO  ~94984    +   +   A   A   A   +
+  ~94983 TO  ~94969    A   A   A   A   A   A
+  ~94968 TO  ~94898    +   +   A   A   A   +
+  ~94897 TO  ~94871    A   A   A   A   A   A
+  ~94870 TO  ~94840    +   +   A   A   A   +
+  ~94839 TO  ~94820    A   A   A   A   A   A
+  ~94819 TO  ~94802    +   +   A   A   A   +
+  ~94801 TO  ~94799    A   A   A   A   A   A
+  ~94798 TO  ~94620    +   +   A   A   A   +
+  ~94619 TO  ~94559    A   A   A   A   A   A
+  ~94558 TO  ~94542    +   +   A   A   A   +
+  ~94541               +   +   +   +   +   +
+  ~94540 TO  ~94531    +   +   A   A   A   +
+  ~94530 TO  ~94507    A   A   A   A   A   A
+  ~94506 TO  ~94469    +   +   A   A   A   +
+  ~94468 TO  ~94466    A   A   A   A   A   A
+  ~94465               +   +   A   A   A   +
+  ~94464 TO  ~94462    A   A   A   A   A   A
+  ~94461               +   +   A   A   A   +
+  ~94460 TO  ~94458    A   A   A   A   A   A
+  ~94457 TO  ~94418    +   +   A   A   A   +
+  ~94417 TO  ~94393    A   A   A   A   A   A
+  ~94392               +   +   +   +   +   +
+  ~94391 TO  ~94381    A   A   A   A   A   A
+  ~94380 TO  ~94191    +   +   A   A   A   +
+  ~94190 TO  ~94180    A   A   A   A   A   A
+  ~94179               +   +   A   A   A   +
+  ~94178 TO  ~94176    A   A   A   A   A   A
+  ~94175               +   +   A   A   A   +
+  ~94174 TO  ~94167    A   A   A   A   A   A
+  ~94166               +   +   A   A   A   +
+  ~94165 TO  ~94160    A   A   A   A   A   A
+  ~94159               +   +   A   A   A   +
+  ~94158 TO  ~94145    A   A   A   A   A   A
+  ~94144 TO  ~94075    +   +   A   A   A   +
+  ~94074 TO  ~94060    A   A   A   A   A   A
+  ~94059               +   +   A   A   A   +
+  ~94058 TO  ~94056    A   A   A   A   A   A
+  ~94055               +   +   A   A   A   +
+  ~94054 TO  ~94052    A   A   A   A   A   A
+  ~94051               +   +   A   A   A   +
+  ~94050 TO  ~94049    A   A   A   A   A   A
+  ~94048 TO  ~94030    +   +   A   A   A   +
+  ~94029 TO  ~93994    A   A   A   A   A   A
+  ~93993               +   +   A   A   A   +
+  ~93992 TO  ~93990    A   A   A   A   A   A
+  ~93989               +   +   A   A   A   +
+  ~93988 TO  ~93954    A   A   A   A   A   A
+  ~93953 TO  ~93884    +   +   A   A   A   +
+  ~93883 TO  ~93868    A   A   A   A   A   A
+  ~93867               +   +   +   +   +   +
+  ~93866 TO  ~93856    A   A   A   A   A   A
+  ~93855               +   +   +   +   +   +
+  ~93854 TO  ~93842    A   A   A   A   A   A
+  ~93841 TO  ~93765    +   +   A   A   A   +
+  ~93764               +   +   +   +   +   +
+  ~93763 TO  ~93632    +   +   A   A   A   +
+  ~93631 TO  ~93553    A   A   A   A   A   A
+  ~93552 TO  ~93476    +   +   A   A   A   +
+  ~93475 TO  ~93086    A   A   A   A   A   A
+  ~93085 TO  ~92969    +   +   A   A   A   +
+  ~92968 TO  ~92923    A   A   A   A   A   A
+  ~92922 TO  ~92643    +   +   A   A   A   +
+  ~92642 TO  ~92618    A   A   A   A   A   A
+  ~92617 TO  ~92361    +   +   A   A   A   +
+  ~92360               +   +   +   +   +   +
+  ~92359 TO  ~92351    +   +   A   A   A   +
+  ~92350               +   +   +   +   +   +
+  ~92349 TO  ~92345    +   +   A   A   A   +
+  ~92344               +   +   +   +   +   +
+  ~92343 TO  ~92306    +   +   A   A   A   +
+  ~92305 TO  ~92293    A   A   A   A   A   A
+  ~92292               +   +   A   A   A   +
+  ~92291 TO  ~92287    A   A   A   A   A   A
+  ~92286               +   +   A   A   A   +
+  ~92285 TO  ~92277    A   A   A   A   A   A
+  ~92276 TO  ~92245    +   +   A   A   A   +
+  ~92244 TO  ~92232    A   A   A   A   A   A
+  ~92231               +   +   +   +   +   +
+  ~92230 TO  ~92173    A   A   A   A   A   A
+  ~92172 TO  ~92034    +   +   A   A   A   +
+  ~92033 TO  ~91960    A   A   A   A   A   A
+  ~91959 TO  ~91923    +   +   A   A   A   +
+  ~91922               +   +   +   +   +   +
+  ~91921 TO  ~91708    +   +   A   A   A   +
+  ~91707 TO  ~91652    A   A   A   A   A   A
+  ~91651 TO  ~91587    +   +   A   A   A   +
+  ~91586 TO  ~91523    A   A   A   A   A   A
+  ~91522 TO  ~91491    +   +   A   A   A   +
+  ~91490 TO  ~91337    A   A   A   A   A   A
+  ~91336 TO  ~91326    +   +   A   A   A   +
+  ~91325               A   A   A   A   A   A
+  ~91324 TO  ~91292    +   +   A   A   A   +
+  ~91291 TO  ~91187    A   A   A   A   A   A
+  ~91186 TO  ~28336    +   +   A   A   A   +
+   26729 TO   14758    +   +   -   -   -   +
+   27353 TO   19411    A   A   A   A   A   A
+   27266               +   +   A   A   A   +
+   27196 TO   26977    A   A   A   A   A   A
+   19655               +   +   A   A   A   +
+   27391 TO   27364    A   A   A   A   A   A
+   27325 TO   26586    +   +   A   A   A   +
+   19283               A   A   A   A   A   A
+   27369               +   +   A   A   A   +
+   27367 TO   15370    A   A   A   A   A   A
+   27193 TO   27189    +   +   A   A   A   +
+   26523 TO   26514    A   A   A   A   A   A
+   27418 TO   17129    +   +   A   A   A   +
+   14762 TO   14760    +   +   -   -   -   +
+   27510 TO   26721    -   -   -   -   -   -
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 1       TO 37         A   A               A
+ 38                                         
+ ~LineCo                       A   A   A    
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A

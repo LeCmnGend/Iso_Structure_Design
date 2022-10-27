@@ -1,0 +1,83 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Thursday, October 20, 2022, 9:04 AM.
+
+Drawing Sheet Set:
+
+This is a transmittal based on drawing sheets from the sheet set:
+	sheetshet- TATC-CAITAO.
+
+Sheets:
+CTN-KHU TUONG NIEM - bia lot
+N-01 DANH M\U+1EE4C B\U+1EA2N V\U+1EBC
+N-02 KÝ HI\U+1EC6U CHUNG
+N-03 M\U+1EB6T B\U+1EB0NG T\U+1ED4NG TH\U+1EC2 C\U+1EA4P N\U+01AF\U+1EDAC
+N-04 M\U+1EB6T B\U+1EB0NG T\U+1ED4NG TH\U+1EC2 THOÁT N\U+01AF\U+1EDAC M\U+1EB6T
+N-05 CHI TI\U+1EBET THOÁT N\U+01AF\U+1EDAC KHU \U+0110IÊU KH\U+1EAEC M\U+1EF8 THU\U+1EACT
+N-06 CHI TI\U+1EBET L\U+1EAEP \U+0110\U+1EB6T
+N-07 CHI TI\U+1EBET H\U+1ED0 GA
+N-08 TH\U+1ED0NG KÊ V\U+1EACT T\U+01AF C\U+1EA4P THOÁT N\U+01AF\U+1EDAC
+
+
+Files:
+
+
+Root Drawings:	CTN-KHU TUONG NIEM.dwg
+
+Sheet Set Data File:
+	sheetshet- TATC-CAITAO.dst
+
+Sheet Template Files:
+	SheetSets\Architectural Imperial.dwt
+
+AutoCAD Drawing (External) References:
+	CT khu tuong niem.dwg
+	X_KHUNGTEN A2.dwg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\acad.ctb
+	PlotCfgs\A3-CTN.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+	PlotCfgs\DWF6 ePlot.pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arialbd_1.ttf
+	Fonts\arial_1.ttf
+	Fonts\txt.shx
+	Fonts\vntimeh.shx
+	Fonts\vns.shx
+	Fonts\VHARIAL.TTF
+	Fonts\VHAVAN.SHX
+	Fonts\uv-abc.shx
+	Fonts\ARIALN_1.TTF
+	Fonts\unicode.shx
+	Fonts\vnsimli.shx
+	Fonts\VNARIALB.SHX
+	Fonts\arial.shx
+	Fonts\VHARIALB.SHX
+	Fonts\VHHELS.SHX
+	Fonts\VHAVANB.SHX
+	Fonts\Vnarial.ttf
+	Fonts\romans.shx
+	Fonts\ltypeshp.shx
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\HLC\AppData\Roaming\Autodesk\AutoCAD 2020\R23.1\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
