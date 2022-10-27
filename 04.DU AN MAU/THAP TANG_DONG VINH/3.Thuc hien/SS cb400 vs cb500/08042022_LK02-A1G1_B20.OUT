@@ -1,0 +1,176 @@
+
+
+ ETABS Ultimate 64-bit 19.1.0 Build 2420 (Analysis Build 9853/64)               
+ File: \\192.168.1.253\ts1\#Th...en\SS cb400 vs cb500\08042022_LK02-A1G1_B20.OUT
+                                                                     
+                                                                       
+
+ 1, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           10.450100   10.450100     .000000     .000000     .000000  1.5090E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      1838.350    1838.350    1877.754
+     Y      9635.024    9635.024    9646.305
+     Z     14300.000   14300.000   14300.000
+
+ 2, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           22.931166   22.931166     .000000     .000000     .000000  6.6756E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2775.014    2775.014    2981.250
+     Y      7826.211    7826.211    7032.187
+     Z     10500.000   10500.000   10500.000
+
+ 3, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           28.547708   28.547708     .000000     .000000     .000000  9.3312E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2887.128    2887.128    3047.143
+     Y      6481.666    6481.666    6056.085
+     Z      7200.000    7200.000    7200.000
+
+ 4, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           26.465785   26.465785     .000000     .000000     .000000  8.9693E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2901.442    2901.442    3039.401
+     Y      6844.281    6844.281    6395.945
+     Z      3900.000    3900.000    3900.000
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+      23 TO      33    +   +   A   A   A   +
+      35 TO      44    -   -   -   -   -   -
+      45 TO      15    +   +   A   A   A   +
+      16               +   +   +   +   +   +
+      17 TO     119    +   +   A   A   A   +
+     120               +   +               +
+     121 TO     123    +   +   A   A   A   +
+     124               +   +               +
+     126 TO     139    +   +   A   A   A   +
+     142               A   A   A   A   A   A
+     143               +   +   A   A   A   +
+     144               A   A   A   A   A   A
+     146 TO     152    +   +   A   A   A   +
+     153               +   +   +   +   +   +
+     158 TO     161    A   A   A   A   A   A
+     162               +   +   A   A   A   +
+     164               +   +               +
+     167 TO     173    +   +   A   A   A   +
+      20               +   +   +   +   +   +
+      22 TO      72    +   +   A   A   A   +
+      91 TO     125    -   -   -   -   -   -
+     156 TO     165    +   +   A   A   A   +
+     166               +   +               +
+     188 TO     207    -   -   -   -   -   -
+     127 TO     184    +   +   A   A   A   +
+     218 TO     131    A   A   A   A   A   A
+     135 TO     148                         
+     154               A   A   A   A   A   A
+     159                                    
+     160               A   A   A   A   A   A
+     169                                    
+     170               A   A   A   A   A   A
+     172 TO     174                         
+     175               A   A   A   A   A   A
+     176 TO     178                         
+     183 TO     186    A   A   A   A   A   A
+     190 TO     192    +   +   A   A   A   +
+     195 TO     198    A   A   A   A   A   A
+     208               +   +   A   A   A   +
+      76 TO     200    A   A   A   A   A   A
+     201                                    
+      80 TO     194    A   A   A   A   A   A
+     199                                    
+     155 TO      75    +   +   -   -   -   +
+    ~205 TO    ~235    A   A   A   A   A   A
+    ~236               +   +   +   +   +   +
+    ~237 TO    ~239    A   A   A   A   A   A
+    ~240               +   +   +   +   +   +
+    ~241 TO    ~257    A   A   A   A   A   A
+    ~258               +   +   +   +   +   +
+    ~259               A   A   +   +   +   A
+    ~260               +   +   +   +   +   +
+    ~261 TO    ~289    A   A   A   A   A   A
+    ~290               +   +   +   +   +   +
+    ~291 TO    ~295    A   A   A   A   A   A
+    ~296               +   +   +   +   +   +
+    ~297 TO    ~380    A   A   A   A   A   A
+    ~381               +   +   +   +   +   +
+    ~382 TO    ~383    A   A   A   A   A   A
+    ~384               A   A   +   +   +   A
+    ~385               A   A   A   A   A   A
+    ~386               +   +   +   +   +   +
+    ~387 TO    ~425    A   A   A   A   A   A
+    ~426               +   +   +   +   +   +
+    ~427 TO    ~429    A   A   A   A   A   A
+    ~430               +   +   +   +   +   +
+    ~431 TO    ~446    A   A   A   A   A   A
+    ~447               +   +   +   +   +   +
+    ~448 TO    ~452    A   A   A   A   A   A
+    ~453               A   A   +   +   +   A
+    ~454 TO    ~458    A   A   A   A   A   A
+    ~459               +   +   +   +   +   +
+    ~460 TO    ~676    A   A   A   A   A   A
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 1       TO 4          A   A               A
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    

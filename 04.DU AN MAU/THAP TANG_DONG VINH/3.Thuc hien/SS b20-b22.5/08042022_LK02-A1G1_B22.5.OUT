@@ -1,0 +1,178 @@
+
+
+ ETABS Ultimate 64-bit 19.1.0 Build 2420 (Analysis Build 9853/64)               
+ File: \\192.168.1.253\ts1\#Th... hien\ss b20-b22.5\08042022_LK02-A1G1_B22.5.OUT
+                                                                     
+                                                                       
+
+ 1, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           10.366386   10.366386     .000000     .000000     .000000  1.5053E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      1828.161    1828.161    1877.311
+     Y      9621.579    9621.579    9645.721
+     Z     14300.000   14300.000   14300.000
+
+ 2, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           22.289592   22.289592     .000000     .000000     .000000  6.2121E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2571.057    2571.057    2862.979
+     Y      7846.910    7846.910    7032.657
+     Z     10500.000   10500.000   10500.000
+
+ 3, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           28.419193   28.419193     .000000     .000000     .000000  8.8504E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2719.191    2719.191    2926.958
+     Y      6466.721    6466.721    6055.738
+     Z      7200.000    7200.000    7200.000
+
+ 4, CONSTR = RIGID, DOF = U1 U2 R3
+
+                     LOCAL COORDINATE SYSTEM FOR CONSTRAINT MASTER
+  GLOBAL          U1          U2          U3          R1          R2          R3
+     X      1.000000     .000000     .000000    1.000000     .000000     .000000
+     Y       .000000    1.000000     .000000     .000000    1.000000     .000000
+     Z       .000000     .000000    1.000000     .000000     .000000    1.000000
+
+                     TRANSLATIONAL MASS AND MASS MOMENTS OF INERTIA
+                  U1          U2          U3          R1          R2          R3
+           26.531851   26.531851     .000000     .000000     .000000  8.6742E+08
+
+                     CENTER OF MASS
+  GLOBAL          U1          U2          U3
+     X      2749.694    2749.694    2921.603
+     Y      6791.950    6791.950    6394.256
+     Z      3900.000    3900.000    3900.000
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+      23 TO      33    +   +   A   A   A   +
+      35 TO      44    -   -   -   -   -   -
+      45 TO      15    +   +   A   A   A   +
+      16               +   +   +   +   +   +
+      17 TO     119    +   +   A   A   A   +
+     120               +   +               +
+     121 TO     123    +   +   A   A   A   +
+     124               +   +               +
+     126 TO     139    +   +   A   A   A   +
+     142               A   A   A   A   A   A
+     143               +   +   A   A   A   +
+     144               A   A   A   A   A   A
+     146 TO     152    +   +   A   A   A   +
+     153               +   +   +   +   +   +
+     155                                    
+     158 TO     161    A   A   A   A   A   A
+     162               +   +   A   A   A   +
+     163               A   A   A   A   A   A
+     164               +   +               +
+     167 TO     173    +   +   A   A   A   +
+      20               +   +   +   +   +   +
+      22 TO      72    +   +   A   A   A   +
+      91 TO     125    -   -   -   -   -   -
+     156 TO     165    +   +   A   A   A   +
+     166               +   +               +
+     188 TO     207    -   -   -   -   -   -
+     127 TO     184    +   +   A   A   A   +
+     187 TO     204                         
+     218 TO     227    A   A   A   A   A   A
+      85                                    
+     140 TO     131    A   A   A   A   A   A
+     135 TO     148                         
+     154               A   A   A   A   A   A
+     159                                    
+     160               A   A   A   A   A   A
+     169                                    
+     170               A   A   A   A   A   A
+     172 TO     174                         
+     175               A   A   A   A   A   A
+     176 TO     178                         
+     183 TO     186    A   A   A   A   A   A
+     190 TO     192    +   +   A   A   A   +
+     195 TO     198    A   A   A   A   A   A
+     208               +   +   A   A   A   +
+      80 TO     210    A   A   A   A   A   A
+      76 TO      75    +   +   -   -   -   +
+    ~215 TO    ~245    A   A   A   A   A   A
+    ~246               +   +   +   +   +   +
+    ~247 TO    ~249    A   A   A   A   A   A
+    ~250               +   +   +   +   +   +
+    ~251 TO    ~267    A   A   A   A   A   A
+    ~268               +   +   +   +   +   +
+    ~269               A   A   +   +   +   A
+    ~270               +   +   +   +   +   +
+    ~271 TO    ~296    A   A   A   A   A   A
+    ~297               +   +   +   +   +   +
+    ~298 TO    ~302    A   A   A   A   A   A
+    ~303               +   +   +   +   +   +
+    ~304 TO    ~378    A   A   A   A   A   A
+    ~379               +   +   +   +   +   +
+    ~380 TO    ~381    A   A   A   A   A   A
+    ~382               A   A   +   +   +   A
+    ~383               A   A   A   A   A   A
+    ~384               +   +   +   +   +   +
+    ~385 TO    ~419    A   A   A   A   A   A
+    ~420               +   +   +   +   +   +
+    ~421 TO    ~423    A   A   A   A   A   A
+    ~424               +   +   +   +   +   +
+    ~425 TO    ~437    A   A   A   A   A   A
+    ~438               +   +   +   +   +   +
+    ~439 TO    ~442    A   A   A   A   A   A
+    ~443               A   A   +   +   +   A
+    ~444 TO    ~447    A   A   A   A   A   A
+    ~448               +   +   +   +   +   +
+    ~449 TO    ~645    A   A   A   A   A   A
+    NULL                                    
+
+  CONSTRAINTS         U1  U2  U3  R1  R2  R3
+ 1       TO 4          A   A               A
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo                                    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                       A   A   A    
+ ~LineCo               A   A   A   A   A   A
+ ~LineCo                                    
